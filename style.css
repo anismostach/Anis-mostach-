@@ -1,18 +1,18 @@
-body {
+body { body {
   margin: 0;
   font-family: Arial, sans-serif;
   direction: rtl;
 
-  /* الخلفية */
-background: url("image_1393.jpeg") no-repeat center center fixed;
+  background: url("/Anis-mostach-/image_1393.jpeg") no-repeat center center fixed;
+  background-size: cover;
+  color: #333;
 }
-body {
   margin: 0;
   font-family: Arial, sans-serif;
   direction: rtl;
 
   /* الخلفية */
-  background: url("image_1393.jpeg") no-repeat center center fixed;
+  background: url("/Anis-mostach-/image_1393.jpeg") no-repeat center center fixed;
   background-size: cover;
   color: #333;
 }
